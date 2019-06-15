@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    since i'm using windows , i only used FC command.
+    my answer would be:
+    FC allowed me to see any old block of the old txt file that changed in the new block in the new file
+    indicating the lines at which an additonal info is added or a syntax changed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+maybe, the programmer would be interested in getting the old designs of this specific project to use the ideas
+in a new project without going into all the details agian!.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pros:The automatic saving wouldn't save the desired parts the could evolove a probelm in the future
+while in manual saving it's my decision to know weather this part of code is worth of comitting or not
+cons:In manual saving you might forget to save or maybe get the power off your PC/Computer which leads to losing
+all the recent work you've been going through.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+I think Git assumes that the files has to be related to be saved as explained in a repasotory git
+while google docs doesn't allow that feature(the files are quite unrelated to each other to be saved at once)
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log allows you to see the commited repository with the date at which the commit has occured with the id.
+git diff allows you to compare the same file or maybe different files based on the two commited ids of the 
+desired files
+
+How might using version control make you more confident to make changes that
+could break something?
+80% confident
+since im not introduced yet to ALL commands and some of them such as git -reset can't be undone 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+i'm a programmer so i need to save my projects without losing older versions
+also to track a novel if i decided to be a novel writer :3 
